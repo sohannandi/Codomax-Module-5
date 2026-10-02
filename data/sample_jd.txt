@@ -1,0 +1,18 @@
+Junior Data Analyst
+
+Required Skills:
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- SQL
+- data visualization
+- machine learning
+- communication
+- problem solving
+- Excel
+
+Responsibilities:
+- Clean and analyze datasets
+- Create dashboards and reports
+- Present insights to stakeholders

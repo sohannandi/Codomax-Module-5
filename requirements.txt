@@ -1,0 +1,4 @@
+# Optional dependencies for real LLM usage.
+# The mock analyzer runs with the Python standard library only.
+# openai>=1.0.0
+# google-generativeai>=0.3.0

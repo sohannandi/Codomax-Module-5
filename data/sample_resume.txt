@@ -1,0 +1,12 @@
+Sohan Nandi
+Junior Data Analyst
+
+Skills: Python, pandas, NumPy, Matplotlib, SQL, Excel, machine learning, data visualization, communication, teamwork
+
+Experience:
+- Completed a Python mini project to track expenses
+- Built a data analysis notebook using Pandas and Matplotlib
+- Worked on a team project to analyze sales data
+
+Education:
+- Bachelor of Technology, Computer Science
