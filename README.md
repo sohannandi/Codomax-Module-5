@@ -105,11 +105,3 @@ See [ai_experiment_notes.md](ai_experiment_notes.md) for:
 
 The `data/` folder contains sample resume and job description files for quick testing.
 
-## Submission
-
-- GitHub repository link: **[PASTE LINK AFTER PUSHING]**
-- LinkedIn post link: **[PASTE LINK AFTER POSTING]**
-
-## Next
-
-Proceed to **Module 6: Final AI & ML Project** (you can extend this analyzer or build a new end-to-end application).
